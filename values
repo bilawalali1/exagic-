@@ -1,0 +1,6 @@
+void main()
+{
+cin>>a;
+cin>>b;
+cin>>c;
+}
